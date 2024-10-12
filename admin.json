@@ -1,16 +1,16 @@
 {
-  "prefix": "!",
+  "prefix": "-",
   "adminUIDs": [
-   "your uid"
+   "100033051497228"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "100033051497228",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "✨Astro Bot🚀",
+  "ownerName": "Zaijan Dave Benito",
+  "facebookLink": "https://www.facebook.com/ZaijanDaveBenito.0209",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
